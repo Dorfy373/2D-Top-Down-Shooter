@@ -64,6 +64,10 @@ Explore a 2D world from a top-down perspective, battle skeleton enemies, and des
 
 The game uses keyboard controls. Specific key bindings can be documented here.
 
+## 🎬 Gameplay Video
+
+[▶️ Watch Gameplay](Videos/Top-Down-Shooter-Gameplay.mp4)
+
 ## 📥 Download
 
 A Windows build will be published in the **[Releases](../../releases)** section when available.
